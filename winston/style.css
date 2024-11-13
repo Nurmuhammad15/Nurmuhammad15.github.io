@@ -1,0 +1,35 @@
+h1 {
+    font-size: 180px;
+}
+.ingichka {
+    margin-top: 100px;
+    font-size: 32px;
+    font-weight: 100;
+}
+
+.semiz, address {
+    font-size: 55px;
+}
+
+p {
+    font-size: 48px;
+}
+
+address {
+    font-style: normal;
+    font-weight: bold;    
+}
+
+body {
+    margin-left: 100px;
+    font-family:"Inter" ;
+}
+img{
+    width: 820px;
+}
+#kichik{
+    margin-bottom: 120px;
+}
+#kotta{
+    margin-bottom: 100px;
+}

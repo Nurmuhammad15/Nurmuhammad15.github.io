@@ -1,0 +1,119 @@
+body {
+    background-image: url(./forest.jpg);
+    background-size: inherit;
+    background-repeat: no-repeat;
+    
+}
+
+
+nav{
+    color: white;
+    width: 100%;
+    height: 650px;
+    margin: 0;
+    padding: 0;
+}
+
+nav a, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+nav .glavni{
+    width: 80%;
+    height: 80%;
+    margin: auto;
+   position: relative;
+   top: 70px;
+}
+nav .glavni .one{
+    width: 160px;
+    height: 120px;
+    margin: auto;
+}
+nav .glavni .one .bir{
+    width: 100px;
+    height: 40px;
+
+ position: relative;
+ top: 20px;
+ left: 20px;
+}
+nav .glavni .one h1{
+   position: relative;
+   left: 20px;
+}
+nav .glavni  .two{
+    width: 90%;
+    height: 70%;
+    
+    margin: auto;
+}
+
+nav .glavni  .two .hed{
+    width: 90%;
+    height: 90%;
+    
+    margin: auto;
+    display:flex;
+    justify-content: space-between;
+}
+nav .glavni  .two .hed .birinchi{
+    width: 20%;
+    height: 90%;
+}
+nav .glavni  .two .hed .ikkinchi{
+    width: 20%;
+    height: 90%;
+  
+}
+nav .glavni  .two .hed .uchinchi{
+    width: 20%;
+    height: 90%;
+}
+nav .glavni  .two .hed .birinchi .ikki{
+    width: 100px;
+    height: 40px;
+   
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+nav .glavni  .two .hed .birinchi .uch{
+    width: 150px;
+    height: 50px;
+ 
+    position: relative;
+    top: 50px;
+    left: 25px;
+}
+nav .glavni  .two .hed .ikkinchi .tort{
+    width: 100px;
+    height: 40px;
+    position: relative;
+    top: 40px;
+    left: 40px;
+    text-align: center;
+}
+nav .glavni  .two .hed .ikkinchi .besh{
+    width: 100px;
+    height: 40px;
+    position: relative;
+    top: 50px;
+    left: 40px;
+    text-align: center;
+}
+nav .glavni  .two .hed .uchinchi .olti{
+    width: 100px;
+    height: 40px;
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+nav .glavni  .two .hed .uchinchi .yetti{
+    width: 100px;
+    height: 40px;
+    position: relative;
+    top: 50px;
+    left: 40px;
+}

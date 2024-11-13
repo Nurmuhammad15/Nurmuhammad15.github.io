@@ -1,0 +1,118 @@
+nav{
+    width: 100%;
+    height: 747px;
+    background-image: url(./asosiy\ fon.png);
+    background-size:cover ;
+    margin: 0;
+    padding: 0;
+    
+   }
+ 
+nav .glabal .one{
+    width: 100%;
+    height: 30px;
+    display:flex;
+   justify-content: center;
+   gap: 30px;
+   color: white;
+   position: relative;
+   top: 15px;
+  
+}
+nav .glabal .one .bir{
+    position: relative;
+    right: 430px;
+}
+nav .glabal .one .jet{
+    display: flex;
+    position: relative;
+    left: 200px;
+    gap: 40px;
+}
+nav .two{
+    width: 100%;
+    height: 717px;
+}
+nav .two .redy{
+    width: 50%;
+    height: 30%;
+    text-align: center;
+    position: relative;
+    top: 100px;
+
+
+}
+nav .two .redy h1{
+    color: #B78601;
+    font-size: 34px;
+}
+nav .two .redy h2{
+    color: white;
+    font-size: 28px;
+    font-family: "Roboto";
+}
+nav .two .redy h3{
+    color: white;
+    font-size: 20px;
+}
+.gread{
+    width: 100%;
+    height: 887px; 
+}
+.gread .redy{
+    width: 90%;
+    height: 90%;
+  position: relative;
+  top: 50px;
+  left: 205px;
+  display: flex;
+  gap: 40px;
+
+  
+}
+.gread .redy .one img{
+    width: 341px;
+    height: 389px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.gread .redy .two img{
+    width: 341px;
+    height: 389px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+.gread .redy .thrue img{
+    width: 341px;
+    height: 389px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+footer{
+    width: 100%;
+    height: 833px;
+    background-image: url(./fon3.png);
+}
+footer .leter{
+    width: 70%;
+    height: 50%;
+    position: relative;
+    top: 250px;
+    left: 100px;
+   
+}
+nav .two button{
+    background: transparent;
+    width: 244px;
+    height: 59px;
+    
+}
+nav .two .redy button{
+    border-radius: 15%;
+    color: white;
+    font-size: 20px;
+}

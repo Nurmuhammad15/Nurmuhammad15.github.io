@@ -1,0 +1,105 @@
+header{
+    width: 80%;
+    height: 600px;
+    background-image: url(./img\ oqsaroy.jpg);
+   background-repeat: no-repeat;
+  background-size: cover;
+ 
+  margin: auto;
+}
+
+
+
+
+main .glabal .asosiy .birinchi{
+    width: 300px;
+    height: 150px;
+    display: flex;
+    
+
+   
+  
+}
+main .glabal .asosiy .ikkinchi {
+    width: 300px;
+    height: 150px;
+    display: flex;
+    
+   
+   
+    
+    
+}
+
+main .glabal{
+    width: 80%;
+    height: 600px;
+    /* background-color: aqua; */
+   margin: auto;
+   margin-top: 80px;
+   display: flex;
+   justify-content: center;
+}
+main .glabal .asosiy .birinchi .ichki{
+    width: 300px;
+    height: 220px;
+    /* background-color: blue; */
+   
+}
+main .glabal .asosiy .ikkinchi .ichki{
+    width: 300px;
+    height: 220px;
+    /* background-color: blue; */
+   
+}
+main .glabal .asosiy .ikkinchi .ichki{
+    text-align: center;
+}
+main .glabal .asosiy .birinchi .ichki{
+    text-align: center;
+}
+ .table{
+    width: 80%;
+    height: 600px;
+    /* background-color: rgb(255, 0, 195); */
+   margin: auto;
+   margin-top: 80px;
+   display: flex;
+   justify-content: center;
+}
+.table .water{
+    width: 80%;
+    height: 500px;
+    /* background-color: rgb(201, 170, 47); */
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.table .water .milta{
+    width: 400px;
+    height: 200px;
+    display: flex;
+}
+.table .water .milta{
+    width: 20%;
+    height: 120px;
+}
+.table .water .milta{
+    width: 30%;
+    height: 120px;
+    /* background-color: cadetblue; */
+    display: flex;
+}
+.table{
+    border-radius: 8%;
+}
+.footer {
+    width: 80%;
+    height: 600px;
+    /* background-color: rgb(0, 255, 17); */
+   margin: auto;
+   margin-top: 80px;
+   display: flex;
+   justify-content: center;
+}

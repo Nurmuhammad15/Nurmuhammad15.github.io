@@ -1,0 +1,97 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.logo>img{
+    width: 6%;
+}
+main{
+    width: 90%;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    font-family:"Roboto";
+}
+
+main>div {
+    /* float: left; */
+    display: inline-block;
+    width: 30%;
+}
+.birinchi{
+    padding: 350px;
+    background-color: #c4c4c4;
+    padding: 30px; 
+    /* margin: 20px; */
+}
+.rasm>h1{
+    font-family: "Roboto";
+}
+.ikkinchi{
+    padding: 350px;
+    background-color: #c4c4c4;
+    padding: 30px;
+    /* margin: 20px; */
+}
+.uchunchi{
+    padding: 350px;
+    background-color: #c4c4c4;
+    padding: 30px;
+    /* margin: 20px; */
+}
+.futer>footer>img{
+    width: 8%;
+    padding: 10px;
+}
+.futer{
+    width: 1510px;
+    background-color:#c4c4c4;
+}
+
+  
+
+.rasm{
+    width: 90%;
+    background-image: url('orqa-fon.jpg');
+    background-size: cover;
+    display: flex;
+    margin: auto;
+    height: 500px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    height: 260px;
+}
+
+footer>address{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 5%;
+}
+
+footer>img{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 5%;
+    /* max-height: 30%; */
+}
+
+#logo {
+margin-left: 5%;
+}
+.logo a{
+    
+    height: 90px;
+    display: flex;
+    justify-content: right;
+ margin-bottom: auto;
+   margin-right: 5%;
+ 
+}
+.rasm h1{
+    margin-top: 104px;
+    margin-left: 350px;
+}
